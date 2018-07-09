@@ -30,6 +30,11 @@
         "semi": [
             "error",
             "always"
-        ]
+        ],
+        "array-bracket-spacing": [
+            "error", 
+            "always"
+        ],
+        "eslint object-curly-spacing": ["error", "always"]
     }
 }
